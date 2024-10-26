@@ -24,7 +24,8 @@
 				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Attack_Sprite.uasset",
 				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Defeated_Sprite.uasset",
 				"D:/Projects/Game_01_2D/Game_01_2D/Content/PaperAssets/Quick_Draw_Assets/Toad/T_Toad_Idle_Sprite.uasset",
-				"D:/Projects/Game_01_2D/Game_01_2D/Content/Maps/Map_Duel.umap"
+				"D:/Projects/Game_01_2D/Game_01_2D/Content/Maps/Map_Duel.umap",
+				"D:/Projects/Game_01_2D/Game_01_2D/Content/Blueprints/BP_Samurai.uasset"
 			]
 		}
 	]
